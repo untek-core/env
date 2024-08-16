@@ -2,6 +2,10 @@
 
 namespace Untek\Core\Env\Enums;
 
+use Untek\Core\Code\Helpers\DeprecateHelper;
+
+DeprecateHelper::hardThrow();
+
 /**
  * Режимы деплоя
  */

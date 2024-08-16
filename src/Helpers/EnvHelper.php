@@ -2,6 +2,7 @@
 
 namespace Untek\Core\Env\Helpers;
 
+use Untek\Core\Code\Helpers\DeprecateHelper;
 use Untek\Core\Env\Enums\EnvEnum;
 
 class EnvHelper

@@ -2,6 +2,8 @@
 
 namespace Untek\Core\Env\Interfaces;
 
+DeprecateHelper::hardThrow();
+
 interface EnvDetectorInterface
 {
 

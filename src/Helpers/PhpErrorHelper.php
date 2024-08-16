@@ -2,6 +2,10 @@
 
 namespace Untek\Core\Env\Helpers;
 
+use Untek\Core\Code\Helpers\DeprecateHelper;
+
+DeprecateHelper::hardThrow();
+
 class PhpErrorHelper
 {
 
